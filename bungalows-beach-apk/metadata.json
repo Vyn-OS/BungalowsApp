@@ -1,0 +1,6 @@
+{
+  "name": "Bungalows Beach",
+  "description": "Aplicación móvil oficial de Bungalows Beach Club Ecuador con navegación fluida integrada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

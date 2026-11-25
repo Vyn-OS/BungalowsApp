@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bungalows Beach</string>
+    <string name="brand_subtitle">Beach Club · Ecuador</string>
+    <string name="loading_experience">Cargando Bungalows Beach…</string>
+    <string name="offline_title">Sin conexión a internet</string>
+    <string name="offline_description">No pudimos conectar con Bungalows Beach Club. Verifica tu red Wi-Fi o datos móviles e intenta nuevamente.</string>
+    <string name="error_page_title">No se pudo cargar la página</string>
+    <string name="error_page_description">Ocurrió un inconveniente temporal al cargar el contenido. Puedes reintentar ahora.</string>
+    <string name="action_retry">Reintentar</string>
+    <string name="action_back">Atrás</string>
+    <string name="action_forward">Adelante</string>
+    <string name="action_home">Inicio</string>
+    <string name="action_reload">Recargar</string>
+    <string name="action_stop">Detener</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_fullscreen">Pantalla completa</string>
+    <string name="action_show_controls">Mostrar barra de navegación</string>
+    <string name="share_chooser_title">Compartir enlace</string>
+    <string name="external_app_unavailable">No se encontró una aplicación para abrir este enlace.</string>
+    <string name="cd_logo">Logotipo de Bungalows Beach</string>
+    <string name="cd_offline_illustration">Ilustración de cabaña en la playa sin conexión</string>
+</resources>
